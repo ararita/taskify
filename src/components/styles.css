@@ -16,7 +16,7 @@
 }
 
 .input__box:focus {
-  /* box-shadow: 0 0 10px 1000px rgba(0, 0, 0, 0.5); */
+  box-shadow: 0 0 10px 1000px rgba(0, 0, 0, 0.5);
   outline: none;
 }
 
@@ -58,7 +58,7 @@
   flex-direction: column;
   width: 47.5%;
   padding: 15px;
-  background-color: rgb(50, 195, 205);
+  /* background-color: rgb(50, 195, 205); */
 }
 
 .dragactive {
